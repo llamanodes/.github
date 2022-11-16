@@ -1,4 +1,8 @@
-![](./banner.png)
+<p align="center">
+  <a href="https://llamanodes.com">
+    <img src="https://raw.githubusercontent.com/llamanodes/.github/main/profile/banner.png" alt="LlamaNodes Banner">
+  </a>
+</p>
 
 # LlamaNodes
 
