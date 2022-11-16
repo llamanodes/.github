@@ -1,4 +1,4 @@
-# LlamaNodes Default Github Community Health Files
+# LlamaNodes Default Community Health Files
 
 Default Community Health Files for the LlamaNodes organization on GitHub.
 
