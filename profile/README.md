@@ -13,5 +13,5 @@ LlamaNodes is a low-cost RPC provider with dynamic load-balancing, autoscaling a
 - Website: https://llamanodes.com
 - Docs: https://llamanodes.notion.site/LlamaNodes-7c1ba02f174b45d1adff219b543c277f
 - Medium: https://medium.com/llamanodes
-- Discord: https://discord.gg/spQBctuZ
+- Discord: https://discord.llamanodes.com
 - Twitter: https://twitter.com/LlamaNodes
